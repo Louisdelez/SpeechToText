@@ -1,0 +1,4 @@
+# Kokoro TTS only (lightweight, CPU-friendly, Python 3.13 compatible)
+kokoro>=0.7,<0.8
+soundfile
+numpy

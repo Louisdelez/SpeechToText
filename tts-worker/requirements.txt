@@ -1,0 +1,12 @@
+# Kokoro TTS (lightweight, CPU-friendly)
+kokoro>=0.7,<0.8
+soundfile
+numpy
+
+# Chatterbox TTS (high quality, GPU recommended)
+chatterbox-tts
+
+# Qwen3-TTS (multilingual, GPU recommended)
+transformers>=4.40
+torch>=2.1
+torchaudio
